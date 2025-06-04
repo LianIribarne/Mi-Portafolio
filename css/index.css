@@ -974,10 +974,6 @@ input::-webkit-inner-spin-button {
   flex-shrink: 0;
   transition: transform 0.3s ease;
 }
-
-.carousel-track img:hover {
-  transform: scale(1.1);
-}
 /* Fin certificados */
 
 /* --- Portafolio --- */
